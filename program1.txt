@@ -1,4 +1,4 @@
 git is fast
 git is leading
 git is lightweight
-git is more features than svn
+git is more features than svnhlfawerhflkesfli
